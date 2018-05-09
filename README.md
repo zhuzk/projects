@@ -1,2 +1,2 @@
 # projects
-tempolary
+temporary
